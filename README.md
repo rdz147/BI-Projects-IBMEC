@@ -4,7 +4,7 @@
 
 - Gabriel Franklin Monteiro
 - Guilherme Duran Duran Gea
-- João Vitor Rodriguez
+- João Gabriel Rodriguez
 
 ## 1. **Arquivo .ktr**
 [Clique Aqui](https://github.com/GuiDDuran/BI-Projects-IBMEC/blob/main/AC%20-%20Tratamento%20de%20Dados%20com%20PDI/Tratamento_Pessoas.ktr)
